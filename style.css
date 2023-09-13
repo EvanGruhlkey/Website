@@ -48,7 +48,7 @@ nav ul li a::after {
   content: "";
   width: 0;
   height: 3px;
-  background: #ff004f;
+  background: #ff0000;
   position: absolute;
   left: 0;
   bottom: -6px;
@@ -175,7 +175,7 @@ ul.space1{
   display: inline-block;
 }
 .services-list div:hover {
-  background: #ff004f;
+  background: #ff0000;
   transform: translateY(-10px);
 }
 p.high{
@@ -210,7 +210,7 @@ p.first{
 .layer {
   width: 100%;
   height: 0;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), #ff004f);
+  background: linear-gradient(rgba(0, 0, 0, 0.6), #ff0000);
   border-radius: 10px;
   position: absolute;
   left: 0;
@@ -242,7 +242,7 @@ p.first{
   text-align: center;
 }
 .work:hover img {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 .work:hover .layer {
   height: 100%;
@@ -251,7 +251,7 @@ p.first{
   display: block;
   margin: 50px auto;
   width: fit-content;
-  border: 1px solid #ff004f;
+  border: 1px solid #ff0000;
   padding: 14px 50px;
   border-radius: 6px;
   text-decoration: none;
@@ -259,7 +259,7 @@ p.first{
   transition: background 0.5s;
 }
 .btn:hover {
-  background: #ff004f;
+  background: #ff0000;
 }
 
 /*--------------contact-----------------*/
@@ -274,7 +274,7 @@ p.first{
   margin-top: 30px;
 }
 .contact-left p i{
-  color: #ff004f;
+  color: #ff0000;
   margin-right: 15px;
   font-size: 25px;
 }
@@ -290,12 +290,12 @@ p.first{
   transition: transform 0.5s;
 }
 .social-icons a:hover{
-  color:#ff004f;
+  color: #ff0000;
   transform: translateY(-5px)
 }
 .btn.btn2{
   display: inline-block;
-  background: #ff004f;
+  background: #ff0000;
 }
 .contact-right form{
   width: 100%;
@@ -338,7 +338,7 @@ nav .fa-solid{
     font-size: 25px;
   }
   nav ul{
-    background: #ff004f;
+    background: #ff0000;
     position: fixed;
     top: 0;
     right: -200px;
