@@ -66,7 +66,7 @@ nav ul li a:hover::after {
   margin-top: 20px;
 }
 .header-text h1 span {
-  color: #800000;
+  color: #ff0000;
 }
 /*--------------about------------*/
 #about {
@@ -116,7 +116,7 @@ ul.space1{
   content: '';
   width: 0;
   height: 3px;
-  background: #800000;
+  background: #ff0000;
   position: absolute;
   left: 0;
   bottom: -8px;
@@ -130,7 +130,7 @@ ul.space1{
   margin: 10px 0;
 }
 .tab-contents ul li span {
-  color: #800000;
+  color: #ff0000;
   font-size: 14px;
 }
 .tab-contents {
@@ -140,7 +140,7 @@ ul.space1{
   display: block;
 }
 
-/*----------------services------------- */
+/*----------------Academics------------- */
 #services {
   padding: 30px 0;
 }
@@ -177,6 +177,14 @@ ul.space1{
 .services-list div:hover {
   background: #ff004f;
   transform: translateY(-10px);
+}
+p.high{
+  line-height: 150%;
+  font-size: 16px;
+}
+p.first{
+  line-height: 150%;
+  font-size: 16px;
 }
 /*----------Portfolio-------------*/
 #portfolio {
