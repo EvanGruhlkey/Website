@@ -242,7 +242,7 @@ p.first{
   text-align: center;
 }
 .work:hover img {
-  transform: scale(1.05);
+  transform: scale(1.02);
 }
 .work:hover .layer {
   height: 100%;
