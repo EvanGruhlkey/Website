@@ -377,7 +377,7 @@ nav .fa-solid{
     flex-basis: 100%;
   }
 }
-@media only screen and (min-width: 601px){
+@media only screen and (min-width: 601px) and (max-width: 1200px){
   .header-text{
     margin-top: 30%;
     font-size: 35px;
@@ -431,7 +431,7 @@ nav .fa-solid{
     flex-basis: 100%;
   }
 }
-@media only screen and (min-width: 1024px){
+@media only screen and (width: 1024px){
   .header-text{
     margin-top: 30%;
     font-size: 35px;
