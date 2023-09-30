@@ -62,7 +62,7 @@ nav ul li a:hover::after {
   font-size: 50px;
 }
 .header-text h1 {
-  font-size: 110px;
+  font-size: 85px;
   margin-top: 20px;
 }
 .header-text h1 span {
@@ -377,6 +377,7 @@ nav .fa-solid{
     flex-basis: 100%;
   }
 }
+
 @media only screen and (min-width: 601px) and (max-width: 1200px){
   .header-text{
     margin-top: 30%;
