@@ -186,6 +186,19 @@ p.first{
   line-height: 150%;
   font-size: 16px;
 }
+.first1{
+  display: block;
+
+  width: fit-content;
+  border: 1px solid #494949;
+  padding: 14px 50px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #fff;
+  transition: background 0.5s;
+  display: inline-block;
+  background: #494949;
+}
 /*----------Portfolio-------------*/
 #portfolio {
   padding: 50px 0;
